@@ -5,7 +5,7 @@
 ### What's a transistor?
 
 The transistor is the primary building block of all microchips, including your CPU (central processing unit). It is what creates the binary 0's and 1's (bits) your computer uses to communicate and deal with Boolean logic. When placed in different configurations, transistors form logic gates, which can combine into arrays called half adders that also combine into full adders.   
-It is a miniature semiconductor that regulates or controls current or voltage flow in addition to amplifying and generating these electrical signals and acting as a **switch/gate** for them.   
+It is a miniature semiconductor that regulates or controls current or voltage flow in addition to amplifying and generating these electrical signals and acting as a **switch/gate** for them.    
 
 | Transistor allowing flow of electrons  | Transistor blocking flow of electrons  |
 |:---------------:|:---------------:|
@@ -43,6 +43,8 @@ In quantum computing, a qubit or quantum bit is a basic unit of quantum informat
 <img src = "assets/superposition.gif" alt = "superposition in qubits" ><br>
 So, qubits exist in both 0 and 1 state (called <b>superposition</b> state) before it is measured.    
 </p>
+
+<br>
 
 **Superposition is the ability of a quantum system to be in multiple states at the same time until it is measured.**   
 
