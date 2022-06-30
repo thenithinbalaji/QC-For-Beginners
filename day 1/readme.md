@@ -1,10 +1,8 @@
-# Day 1 
+# Quantum Computers
 
-## Quantum Computers
+## Why Quantum computers are the future?
 
-### Why Quantum computers are the future?
-
-#### What's a transistor?
+### What's a transistor?
 
 <p align = "center">
 <img src = "assets/transistors.png" alt = "transistor">
@@ -12,13 +10,11 @@
 
 A transistor is a miniature semiconductor that regulates or controls current or voltage flow in addition to amplifying and generating these electrical signals and acting as a **switch/gate** for them. 
 
-#### Transistor allowing flow of electrons
-<p align = "center"><img src="assets/t%20on.png" alt="transistor allowing the flow of electrons" height = "300px"></p>
+| Transistor allowing flow of electrons  | Transistor blocking flow of electrons  |
+|:---------------:|:---------------:|
+| <p align = "center"><img src="assets/t%20on.png" alt="transistor allowing the flow of electrons"></p> | <p align = "center"><img src="assets/t%20off.png" alt="transistor blocking the flow of electrons"></p> |
 
-#### Transistor blocking flow of electrons
-<p align = "center"><img src="assets/t%20off.png" alt="transistor blocking the flow of electrons" height = "300px"></p>
-
-#### Moore's Law and Quantum Tunnelling
+### Moore's Law and Quantum Tunnelling
 
 Moore's law is a term used to refer to the observation made by Gordon Moore in 1965 that the number of transistors in a dense integrated circuit (IC) doubles about every two years i.e. transistors will become small and small.   
 
@@ -32,10 +28,11 @@ This brings us to computers that don't use transistors, **THE QUANTUM COMPUTERS.
 
 [Watch this video about Quantum Computers by Kurzgesagt - In a Nutshell](https://youtu.be/JhHMJCUmq28)
 
+----
 
-### How Quantum computers?
+## How Quantum computers?
 
-#### Intro
+### Intro
 
 Classical computers carry out logical operations using the definite position of a physical state. These are usually binary, meaning their operations are based on one of two positions. A single state - such as on or off, up or down, 1 or 0 - is called a bit.    
 
@@ -43,7 +40,7 @@ In quantum computing, operations instead use the quantum state of an object to p
 
 <p align = "center"><img src="assets/qubit%20comic.png" alt="Comic about Qubit"></p>
 
-#### Qubit
+### Qubit
 
 In quantum computing, a qubit or quantum bit is a basic unit of quantum information—the quantum version of the classic binary bit physically realized with a two-state device. A qubit is a two-state quantum-mechanical system, one of the simplest quantum systems displaying the peculiarity of quantum mechanics. These states are the undefined properties of an object before they've been detected, such as **the spin of an electron or the polarization of a photon.**   
 
