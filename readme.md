@@ -8,5 +8,3 @@
 6. Send this course to someone you know would be interested.
 7. Star this repository.
 
-<br>
-<p align = "center"><img src="day 1\assets\qubit comic.png" alt="Comic about Qubit"></p>
