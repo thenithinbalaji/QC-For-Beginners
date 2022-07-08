@@ -2,7 +2,7 @@
 
 Adapted from [Hughes, C., Isaacson, J., Perry, A., Sun, R.F., Turner, J. (2021). Entanglement. In: Quantum Computing for the Quantum Curious.](https://rdcu.be/cRgeZ)    
 
-**Quantum entanglement** is the physical phenomenon that occurs when a group of particles are generated, interact, or share spatial proximity in a way such that the quantum state of each particle of the group cannot be described independently of the state of the others, including when the particles are separated by a large distance.   
+**Quantum entanglement** is the physical phenomenon that occurs when a group of particles are generated, interact, or share spatial proximity in a way such that the quantum state of each particle of the group cannot be described independently of the state of the others, including when the particles are separated by a large distance.<sup>[1]</sup>   
 
 ## Entanglement Fundamentals
 To provide one example of the strange behavior of entanglement, suppose we have two fair coins. Classically, if you flipped two fair coins many times, you would measure the outcomes HH, HT, TH, or TT, each occurring with a 25% probability.   
@@ -10,14 +10,15 @@ To provide one example of the strange behavior of entanglement, suppose we have 
 However, **by quantum entangling these two fair coins** (In real life, coins can't be entangled. It is just an anology to understand what entanglement is), it is possible to create a state  
 
 ```
-(1/√2)(|HH⟩+|TT⟩) -> Bell State represented using Bra–ket notation, 
+( 1/√2 )( |HH⟩ + |TT⟩ ) -> Bell State represented using Bra–ket notation, 
 dw will explain what this means
 ```
 
 They are entangled in such a way that only two measurement outcomes are possible:    
 (1) both coins land on heads; or  
 (2) both coins land on tails;  
-each outcome occurring with 50% probability. You would never see HT or TH! This is what is represented using Bra-Ket notation (1/√2)(|HH⟩+|TT⟩) (Bra-Ket is just a notation to represent the quantum states, don't get overwhelmed)
+each outcome occurring with 50% probability. You would never see HT or TH! This is what is represented using   
+Bra-Ket notation `( 1/√2 )( |HH⟩ + |TT⟩ )` (Bra-Ket is just a notation to represent the quantum states, don't get overwhelmed)
 
 <br>
 <p align = "center"><img src="assets/coin%20entangled.webp"></p>
@@ -41,7 +42,7 @@ To provide a more *realistic example in a classical system*, consider a particle
 
 Given a known total initial momentum, then by measuring the momentum of one of the final state particles, we can determine the momentum of the other final state particle. In summary, by measuring one particle’s momentum, we know the other. **Momentum is the hidden classical variable that is encoded when the two particles are created.** Naturally, the question arises: is there a conceptually similar hidden variable in the quantum mechanical situation?
 
-Hidden Variable Theory tried to explain entanglement using classical physics. It tried to add hidden variables that explained how the bits never transmitted information with each other but instead was just observed to do so. However, Bell’s theorem demonstrated that the correlation between entangled quantum particles is more than what is possible classically, disproving the idea of a hidden variable. **As such, entanglement is a purely quantum phenomenon with no classical explanation.** Bell's Theorem is beyond the scope of this learning, but you are welcomed to give it a read if you are interested. 
+Hidden Variable Theory tried to explain entanglement using classical physics. It tried to add hidden variables that explained how the bits never transmitted information with each other but instead was just observed to do so. However, Bell’s theorem demonstrated that the correlation between entangled quantum particles is more than what is possible classically, disproving the idea of a hidden variable. **As such, entanglement is a purely quantum phenomenon with no classical explanation.** Bell's Theorem is beyond the scope of this learning, but you are welcomed to give it a read if you are interested.<sup>[2]</sup>
 
 [Additonal Read about Bell's Theorem on brilliant.org](https://brilliant.org/wiki/bells-theorem/) (You can skip this if you want)
 
@@ -61,6 +62,5 @@ A Nonlinear crystal creates two photons with entangled polarizations.
 </p>
 
 ## References
-1. https://link.springer.com/chapter/10.1007/978-3-030-61601-4_7
-2. https://en.wikipedia.org/wiki/Quantum_entanglement
-3. https://brilliant.org/wiki/bells-theorem/
+1. https://en.wikipedia.org/wiki/Quantum_entanglement
+2. https://brilliant.org/wiki/bells-theorem/
