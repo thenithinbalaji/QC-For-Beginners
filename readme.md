@@ -2,7 +2,7 @@
 
 1. The first rule of this Quantum Cryptography course is: you do not talk about Quantum Cryptography. 
 2. The second rule of this Quantum Cryptography course is: you DO NOT talk about Quantum Cryptography!
-3. Visit all links present in tutorials. DO NOT SKIP anything. 
+3. Visit all links present in tutorials. DO NOT SKIP anything except the links in REFERENCES. 
 4. You can skip the `assets` folder since it contains only images and gifs used in the markdown file.
 5. The `notebook` folder contains the jupyter notebook with code used in that particular chapter. 
 6. Send this course to someone you know would be interested.
