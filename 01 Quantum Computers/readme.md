@@ -29,7 +29,9 @@ Since the size of transistors is shrinking to the size of a few atoms, transisto
 
 **Quantum tunneling** is a quantum mechanical phenomenon whereby a wave function can propagate through a potential barrier.  
 
-<p align = "center"><img src="assets\quantumtunneling.gif" alt="Quantum tunneling"></p>
+| Classical Picture  | Quantum Picture  |
+|:---------------:|:---------------:|
+| <p align = "center"><img src="assets\quantumtunneling1.gif"></p> | <p align = "center"><img src="assets\quantumtunneling2.gif"></p> |
 
 So, once the transistor reaches a threshold size, it can no longer be used to control the flow of electrons since electrons will pass straight through them via QT.  
 

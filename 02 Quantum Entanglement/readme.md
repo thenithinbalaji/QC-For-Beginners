@@ -55,19 +55,9 @@ Hidden Variable Theory tried to explain entanglement using classical physics. It
 
 There are many different ways of physically entangling particles. One of the common methods called “spontaneous parametric down-conversion” shines a laser at a special nonlinear crystal. The crystal splits the incoming photon into two photons with correlated polarizations.
 
-<br>
-<p align = "center">
-<img src="assets/photon%20entangled.webp">
-</p>
-
-<p align = "center">
-A Nonlinear crystal creates two photons with entangled polarizations.
-</p>
-
-<p align = "center">
-<img src = "assets/superposition.gif" alt = "superposition in photons" ><br>
-The generated photons can exist in both polarization states (<b>superposition</b> state) before it is measured.    
-</p>
+| A Nonlinear crystal creates two photons with entangled polarizations  | The generated photons can exist in both polarization states (<b>superposition</b> state) before it is measured  |
+|:---------------:|:---------------:|
+| <p align = "center"><img src="assets/photon%20entangled.webp"></p> | <p align = "center"><img src = "assets/superposition.gif" alt = "superposition in photons" > |
 
 ## References
 1. https://en.wikipedia.org/wiki/Quantum_entanglement
