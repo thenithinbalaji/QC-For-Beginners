@@ -34,6 +34,8 @@ Two coins are separated with no means of communication between each other. Class
 
 How does the other coin instantaneously “know” what was measured on the other? Is information somehow being transmitted faster than the speed of light? Einstein called this behavior a **“spooky action at a distance.”** It has since been shown that no information is being transmitted from one place to the other, and so no information is being transmitted faster than the speed of light. Rather, the particles share **non-classical information at the time of entanglement**, which is then observed in the measurement process. The **correlation** between **entangled qubits** is the key that allows quantum computers to perform certain computations much faster than classical computers.  
 
+---
+
 ## Hidden Variable Theory
 
 It is tempting to think that there may be some classical explanation for entanglement. **Did the entanglement change the fair coins by adding extra mass to the heads side or the tails side, thereby making them unfair?** Nope.   
@@ -45,10 +47,11 @@ Given a known total initial momentum, then by measuring the momentum of one of t
 Hidden Variable Theory tried to explain entanglement using classical physics. It tried to add hidden variables that explained how the bits never transmitted information with each other but instead was just observed to do so. However, Bell’s theorem demonstrated that the correlation between entangled quantum particles is more than what is possible classically, disproving the idea of a hidden variable. **As such, entanglement is a purely quantum phenomenon with no classical explanation.** Bell's Theorem is beyond the scope of this learning, but you are welcomed to give it a read if you are interested.<sup>[2]</sup>
 
 [Additonal Read about Bell's Theorem on brilliant.org](https://brilliant.org/wiki/bells-theorem/) (You can skip this if you want)
-
 [Watch this video about Quantum Entanglement by Veritasium](https://www.youtube.com/watch?v=ZuvK-od647c)
 
-## Entangling Particles
+---
+
+## Entangling Particles irl
 
 There are many different ways of physically entangling particles. One of the common methods called “spontaneous parametric down-conversion” shines a laser at a special nonlinear crystal. The crystal splits the incoming photon into two photons with correlated polarizations.
 
@@ -59,6 +62,11 @@ There are many different ways of physically entangling particles. One of the com
 
 <p align = "center">
 A Nonlinear crystal creates two photons with entangled polarizations.
+</p>
+
+<p align = "center">
+<img src = "assets/superposition.gif" alt = "superposition in photons" ><br>
+The generated photons can exist in both polarization states (<b>superposition</b> state) before it is measured.    
 </p>
 
 ## References
