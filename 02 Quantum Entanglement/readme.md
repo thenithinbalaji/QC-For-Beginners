@@ -46,7 +46,7 @@ Given a known total initial momentum, then by measuring the momentum of one of t
 
 Hidden Variable Theory tried to explain entanglement using classical physics. It tried to add hidden variables that explained how the bits never transmitted information with each other but instead was just observed to do so. However, Bell’s theorem demonstrated that the correlation between entangled quantum particles is more than what is possible classically, disproving the idea of a hidden variable. **As such, entanglement is a purely quantum phenomenon with no classical explanation.** Bell's Theorem is beyond the scope of this learning, but you are welcomed to give it a read if you are interested.<sup>[2]</sup>
 
-[Additonal Read about Bell's Theorem on brilliant.org](https://brilliant.org/wiki/bells-theorem/) (You can skip this if you want)
+[Additonal Read about Bell's Theorem on brilliant.org](https://brilliant.org/wiki/bells-theorem/) (You can skip this if you want)    
 [Watch this video about Quantum Entanglement by Veritasium](https://www.youtube.com/watch?v=ZuvK-od647c)
 
 ---
