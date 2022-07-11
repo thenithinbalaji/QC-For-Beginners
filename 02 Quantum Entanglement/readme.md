@@ -22,7 +22,7 @@ Bra-Ket notation `( 1/√2 )( |HH⟩ + |TT⟩ )` (Bra-Ket is just a notation to 
 
 | Flipping entangled coins | Entangled coins communicating with each other  |
 |:------------------------:|:----------------------------------------------:|
-| <p align = "center"><img src="assets/coin%20entangled.webp"></p> | <p align = "center"><img src="assets/coin%20entangled%202.webp"></p> |
+| <p align = "center"><img src="assets/coin%20entangled.png"></p> | <p align = "center"><img src="assets/coin%20entangled%202.webp"></p> |
 
 
 Furthermore, if the two entangled coins are separated by thousands of miles, one coin can be flipped and measured. In this case, if the measured coin produced the outcome heads, then we automatically know that the other coin must also land on heads. If the measured coin produced the outcome tails, then we automatically know that the other coin must also land of tails! If this isn’t strange enough, this appears to suggest that the two coins can transmit information instantaneously, and possibly even faster than the speed of light (the fastest speed in the Universe).   
