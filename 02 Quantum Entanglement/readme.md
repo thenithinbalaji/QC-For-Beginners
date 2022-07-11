@@ -20,15 +20,12 @@ They are entangled in such a way that only two measurement outcomes are possible
 each outcome occurring with 50% probability. You would never see HT or TH! This is what is represented using   
 Bra-Ket notation `( 1/√2 )( |HH⟩ + |TT⟩ )` (Bra-Ket is just a notation to represent the quantum states, don't get overwhelmed)
 
-<br>
-<p align = "center"><img src="assets/coin%20entangled.webp"></p>
-<br>
+| Flipping entangled coins | Entangled coins communicating with each other  |
+|:------------------------:|:----------------------------------------------:|
+| <p align = "center"><img src="assets/coin%20entangled.webp"></p> | <p align = "center"><img src="assets/coin%20entangled%202.webp"></p> |
+
 
 Furthermore, if the two entangled coins are separated by thousands of miles, one coin can be flipped and measured. In this case, if the measured coin produced the outcome heads, then we automatically know that the other coin must also land on heads. If the measured coin produced the outcome tails, then we automatically know that the other coin must also land of tails! If this isn’t strange enough, this appears to suggest that the two coins can transmit information instantaneously, and possibly even faster than the speed of light (the fastest speed in the Universe).   
-
-<br>
-<p align = "center"><img src="assets/coin%20entangled%202.webp"></p>
-<br>
 
 Two coins are separated with no means of communication between each other. Classically, the flip of the second coin would be unrelated to the first flip. However, entangled coins would still produce correlated results.  
 
