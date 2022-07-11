@@ -51,12 +51,10 @@ In quantum computing, operations instead use the quantum state of an object to p
 In quantum computing, a qubit or quantum bit is a basic unit of quantum information—the quantum version of the classic binary bit physically realized with a two-state device. A qubit is a two-state quantum-mechanical system, one of the simplest quantum systems displaying the peculiarity of quantum mechanics. These states are the undefined properties of an object before they've been detected, such as **spin of an electron, the polarization of a photon, trapped ions, semiconducting circuits, etc.**
 
 
-<p align = "center">
-<img src = "assets/superposition.gif" alt = "superposition in qubits" ><br>
-Qubits can exist in both 0 and 1 state (called <b>superposition</b> state) before it is measured.    
-</p>
+| Qubits can exist in both 0 and 1 state (the superposition state) at same time until it is measured. | Superposition - ability of a quantum system to be in multiple states at same time until it is measured. |
+|:-------------:|:-------------|
+| <p align = "center"><img src = "assets/superposition.gif" alt = "superposition in qubits" ></p> | <p align = "center"><img src = "assets/superposition.gif" alt = "superposition in qubits" ></p> |
 
-**Superposition is the ability of a quantum system to be in multiple states at the same time until it is measured.** 
 
 A single qubit can exist not only, in two discrete energy states, low and high (similar to 0 and 1) but it can also exist in a superposition state where in it exists in both states at once. When measured, however, the superposition fades and one of the two distinct states is returned based on the probabilities of each state.  
 
