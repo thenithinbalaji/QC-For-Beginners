@@ -48,9 +48,11 @@ Hidden Variable Theory tried to explain entanglement using classical physics. It
 
 ---
 
-## Entangling Particles irl
+## How entangled particles are produced in real life? 
 
-There are many different ways of physically entangling particles. One of the common methods called “spontaneous parametric down-conversion” shines a laser at a special nonlinear crystal. The crystal splits the incoming photon into two photons with correlated polarizations.
+There are many different ways of physically entangling particles (like the hypothetical coin we saw above. And ofc, coins can't be entangled irl. It was just an anology to understand what entanglement is). And again ofc, not all particles can be entangled just like that. It it either electron or photon (because currently we only know how to entangle them).  
+
+One of the common methods called “spontaneous parametric down-conversion” shines a laser at a special nonlinear crystal. The crystal splits the incoming photon into two photons with correlated polarizations.
 
 | A Nonlinear crystal creates two photons with entangled polarizations  | The generated photons can exist in both polarization states (<b>superposition</b> state) before it is measured  |
 |:---------------:|:---------------:|
