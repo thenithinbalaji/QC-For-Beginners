@@ -60,11 +60,14 @@ A single qubit can exist not only, in two discrete energy states, low and high (
 
 When using two qubits instead of a single qubit, 4 discrete energy states exist, (2 discrete states for each qubit) and a qubit can even exist in a superposition of these states.
 
-Similarly using **n qubits**, 2<sup>n</sup> states are achieved which exist as combinations of 0s and 1s in parallel.  
+Similarly using **n qubits**, 2<sup>n</sup> states are achieved which exist as combinations of 0s and 1s in parallel. So this gives a way to represent information. 
 
-So this gives a way to represent information. The next step is to process information, which requires manipulation of these qubits. This is brought about by the use of special quantum logic gates and quantum algorithms such as **Shor’s algorithm and Grover’s algorithm** which function using the principles of quantum mechanics of superposition, entanglement, and measurement. Without going into the complicated details of the quantum phenomena, the state of the qubits is manipulated by the application of precise electromagnetic waves, microwaves, and amplification functions as defined by the algorithms.<sup>[3]</sup>
+### Processing Qubits 
+The next step is to process information, which requires manipulation of these qubits. This is brought about by the use of special quantum logic gates and quantum algorithms such as **Shor’s algorithm and Grover’s algorithm** which function using the principles of quantum mechanics of superposition, entanglement, and measurement. Without going into the complicated details of the quantum phenomena, the state of the qubits is manipulated by the application of precise electromagnetic waves, microwaves, and amplification functions as defined by the algorithms.<sup>[3]</sup>
 
 [Watch this video about Quantum Superposition by Microsoft](https://youtu.be/glLPHgRle7o)  
+
+---
 
 But from the point of view of classical physics, this theory can be seen as counter-intuitive or even bizarre. Quantum objects appear to be at two places at the same time, electrical currents in a metallic wire can flow clockwise and counter-clockwise at the same time, or an object can sometimes behave as a wave and sometimes a particle.   
 
