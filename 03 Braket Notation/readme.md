@@ -68,7 +68,7 @@ Both the qubits can be in the head state or both the qubits can be in the tail s
 ```
 ## Born's Rule
 
-The probability of each state is square of its magnitude. 
+The probability of each state is square of its magnitude.<sup>[2]</sup>
 ```
 1/√2 |HH⟩ + 1/√2 |TT⟩ 
 Here, each state has a magnitude of 1/√2
