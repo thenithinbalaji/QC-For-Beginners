@@ -5,7 +5,7 @@ PS: I haven't read most of the books in this list
 
 ### Books
 + Feynman Lectures on Physics, volume 3    
-[Essential chapters: Chapters 1-12](.)
+[Essential chapters: Chapters 1-12](#)
 + Introduction to Linear Algebra by Gilbert Strang   
 [Essential chapters: Chapters 1, 3, 6, 8 and 9](#)
 + Quantum Mechanics: The Theoretical Minimum by Leonard Susskind and Art Friedman 
