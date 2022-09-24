@@ -1,6 +1,6 @@
 # How to learn quantum mechanics on your own?
 
-Adapted from [Mithuna Yoganathan's Blog](https://lookingglassuniver.wixsite.com/blog/post/how-to-learn-quantum-mechanics-on-your-own) 
+Adapted from [Mithuna Yoganathan's Blog](https://lookingglassuniver.wixsite.com/blog/post/how-to-learn-quantum-mechanics-on-your-own)       
 PS: I haven't read most of the books in this list
 
 ### Books
