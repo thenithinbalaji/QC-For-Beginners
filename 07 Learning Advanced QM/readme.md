@@ -1,7 +1,6 @@
 # How to learn quantum mechanics on your own?
 
 Adapted from [Mithuna Yoganathan's Blog Post](https://www.youtube.com/user/LookingGlassUniverse)       
-PS: I haven't read most of the books in this list
 
 ### Books
 + Feynman Lectures on Physics, volume 3    
